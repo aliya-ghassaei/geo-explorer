@@ -1,6 +1,6 @@
 inputs/
 src/config
 .env
-.Rproj.user
-.Rproj
+*.Rproj.user
+*.Rproj
 .DS_Store
