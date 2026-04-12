@@ -4,3 +4,9 @@ inputs/
 *.Rhistory
 *.Rproj
 *.DS_Store
+get-pip.py
+__pycache__
+*.shp
+*.shx
+*.geojson
+*.json
