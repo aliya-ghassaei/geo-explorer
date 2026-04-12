@@ -1,1 +1,6 @@
 inputs/
+*.env
+*.Rproj.user
+*.Rhistory
+*.Rproj
+*.DS_Store
